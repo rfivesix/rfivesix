@@ -1,6 +1,6 @@
 ### Hey there, I'm Richard 👋
 
-* Building [Train Libre](https://github.com/rfivesix/train-libre): My custom fitness app. Right now I'm working on publishing it to the Apple app store
+* Building [Train Libre](https://github.com/rfivesix/train-libre): My custom fitness app. Right now I'm working on small UI optimizations and hardening in general 
 * CS Student
 * Languages: Dart, Python, C, Java, Haskell, Prolog
 
