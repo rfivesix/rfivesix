@@ -47,6 +47,10 @@ I’m currently improving **[Train Libre](https://github.com/rfivesix/train-libr
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=rfivesix&theme=github-dark-blue&hide_border=true" />
 </p>
 
+<p align="center">
+  <img alt="Contribution activity graph" src="https://github.com/user-attachments/assets/67438760-0b82-4301-9180-2c99831fb6da" />
+</p>
+
 ---
 
 *Profile inspired by [yermakoffivan/yermakoffivan](https://github.com/yermakoffivan/yermakoffivan), adapted for @rfivesix.*
