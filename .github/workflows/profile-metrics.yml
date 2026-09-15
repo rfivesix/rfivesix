@@ -1,0 +1,41 @@
+name: profile metrics
+
+on:
+  schedule:
+    - cron: "15 2 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/profile-metrics.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-metrics
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Generate profile metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: profile/metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: rfivesix
+          template: classic
+          base: ""
+          config_timezone: UTC
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
+          plugin_habits_facts: yes
+          plugin_languages: yes
+          plugin_languages_limit: 8
