@@ -1,5 +1,4 @@
 <p align="center">
-  <a href="https://github.com/rfivesix/rfivesix"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg" alt="status"></a>
   <a href="https://github.com/rfivesix/train-libre"><img src="https://img.shields.io/badge/project-Train%20Libre-111827.svg" alt="project"></a>
   <a href="https://github.com/rfivesix/rfivesix/stargazers"><img src="https://img.shields.io/github/stars/rfivesix/rfivesix?logo=github" alt="stars"></a>
   <img src="https://komarev.com/ghpvc/?username=rfivesix&label=visitors&color=2F81F7&style=flat" alt="visitors"/>
@@ -21,7 +20,7 @@ Focused on practical software projects and continuous improvement.
 
 </div>
 
-I’m currently improving **[Train Libre](https://github.com/rfivesix/train-libre)** with UI polish and reliability hardening.
+I’m currently working on **[Train Libre](https://github.com/rfivesix/train-libre)**
 
 ### Skills
 
@@ -31,17 +30,9 @@ I’m currently improving **[Train Libre](https://github.com/rfivesix/train-libr
 | **App dev** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
 | **Tooling** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white) |
 
-### Focus right now
-
-- Improve Train Libre performance and UX
-- Keep code quality high with incremental hardening
-- Grow through building and shipping consistently
 
 ### GitHub activity
 
-| Stats | Languages |
-| --- | --- |
-| ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rfivesix&show_icons=true&theme=github_dark&hide_border=true) | ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rfivesix&layout=compact&theme=github_dark&hide_border=true) |
 
 <p align="center">
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=rfivesix&theme=github-dark-blue&hide_border=true" />
