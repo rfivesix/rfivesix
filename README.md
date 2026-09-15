@@ -48,7 +48,7 @@ I’m currently improving **[Train Libre](https://github.com/rfivesix/train-libr
 </p>
 
 <p align="center">
-  <img alt="Contribution activity graph" src="https://github.com/user-attachments/assets/67438760-0b82-4301-9180-2c99831fb6da" />
+  <img alt="Contribution activity graph" src="./profile/metrics.svg" />
 </p>
 
 ---
